@@ -1,5 +1,187 @@
 # Guía de 100 Ejercicios de Python orientados a Data Science y Machine Learning
 
+---
+
+# 📅 Plan de Estudio – 100 Ejercicios de Python para Data Science y Machine Learning
+
+Este plan está diseñado para completarse en **10 semanas**, con un enfoque progresivo: desde fundamentos de Python hasta un proyecto final integrador.  
+Cada semana incluye:  
+- **Ejercicios asignados** (referencia a la guía de 100 ejercicios)  
+- **Objetivos de aprendizaje**  
+- **Datasets sugeridos**  
+- **Checkpoint de evaluación**  
+- **Criterios de finalización**
+
+---
+
+## Semana 1 – Fundamentos I
+**Ejercicios:** 1–10  
+**Objetivos:**  
+- Dominar sintaxis básica de Python.  
+- Trabajar con estructuras de datos y funciones simples.  
+- Introducir conceptos estadísticos básicos.  
+
+**Datasets sugeridos:** Lista de números generada manualmente, textos cortos.  
+
+**Checkpoint:**  
+- Ejecutar todos los scripts sin errores.  
+- Documentar cada ejercicio con comentarios claros.  
+
+**Criterio de finalización:**  
+- Comprender variables, tipos de datos, bucles y condicionales.
+
+---
+
+## Semana 2 – Fundamentos II
+**Ejercicios:** 11–20  
+**Objetivos:**  
+- Programación orientada a objetos básica.  
+- Lectura y escritura de archivos.  
+- Introducción a JSON y manipulación de datos.  
+
+**Datasets sugeridos:** Archivos CSV y JSON simples.  
+
+**Checkpoint:**  
+- Crear una clase funcional con métodos útiles.  
+- Leer y guardar datos en diferentes formatos.  
+
+**Criterio de finalización:**  
+- Poder estructurar código en funciones y clases reutilizables.
+
+---
+
+## Semana 3 – Manipulación de datos I
+**Ejercicios:** 21–30  
+**Objetivos:**  
+- Cargar y explorar datos con `pandas`.  
+- Filtrar, ordenar y agrupar datos.  
+- Manejar valores nulos y duplicados.  
+
+**Datasets sugeridos:** Titanic, Iris.  
+
+**Checkpoint:**  
+- Generar un resumen estadístico de un dataset real.  
+- Limpiar datos y dejar un DataFrame listo para análisis.  
+
+**Criterio de finalización:**  
+- Conocer las funciones básicas de `pandas` para limpieza.
+
+---
+
+## Semana 4 – Manipulación de datos II
+**Ejercicios:** 31–40  
+**Objetivos:**  
+- Calcular correlaciones y percentiles.  
+- Crear índices jerárquicos.  
+- Exportar datos a diferentes formatos.  
+
+**Datasets sugeridos:** Wine Quality, ventas ficticias.  
+
+**Checkpoint:**  
+- Detectar y eliminar outliers con IQR.  
+- Exportar un DataFrame limpio a CSV y Excel.  
+
+**Criterio de finalización:**  
+- Manejar transformaciones intermedias en `pandas` y `numpy`.
+
+---
+
+## Semana 5 – Visualización I
+**Ejercicios:** 41–50  
+**Objetivos:**  
+- Crear histogramas, scatter plots y boxplots.  
+- Personalizar gráficos con títulos, etiquetas y colores.  
+
+**Datasets sugeridos:** Titanic, Iris.  
+
+**Checkpoint:**  
+- Generar al menos 3 tipos de gráficos con datos reales.  
+
+**Criterio de finalización:**  
+- Poder representar visualmente distribuciones y relaciones.
+
+---
+
+## Semana 6 – Visualización II y EDA
+**Ejercicios:** 51–60  
+**Objetivos:**  
+- Graficar mapas, heatmaps y pairplots.  
+- Crear dashboards básicos con `streamlit`.  
+
+**Datasets sugeridos:** Datos geográficos simples, Kaggle datasets.  
+
+**Checkpoint:**  
+- Presentar un mini-dashboard con al menos 2 visualizaciones.  
+
+**Criterio de finalización:**  
+- Integrar visualizaciones en un flujo de análisis exploratorio.
+
+---
+
+## Semana 7 – Machine Learning I
+**Ejercicios:** 61–70  
+**Objetivos:**  
+- Dividir datos en train/test.  
+- Entrenar modelos de regresión y clasificación básicos.  
+- Introducir clustering y PCA.  
+
+**Datasets sugeridos:** Iris, Boston Housing.  
+
+**Checkpoint:**  
+- Entrenar y evaluar al menos 2 modelos diferentes.  
+
+**Criterio de finalización:**  
+- Comprender el flujo básico de entrenamiento y evaluación.
+
+---
+
+## Semana 8 – Machine Learning II
+**Ejercicios:** 71–80  
+**Objetivos:**  
+- Validación cruzada y optimización de hiperparámetros.  
+- Uso de pipelines y escalado de datos.  
+
+**Datasets sugeridos:** Wine Quality, datasets propios.  
+
+**Checkpoint:**  
+- Implementar un pipeline completo con preprocesamiento y modelo.  
+
+**Criterio de finalización:**  
+- Poder optimizar y automatizar el flujo de ML.
+
+---
+
+## Semana 9 – Proyectos temáticos
+**Ejercicios:** 81–90  
+**Objetivos:**  
+- Aplicar ML a problemas reales: predicción, clasificación, clustering.  
+
+**Datasets sugeridos:** Kaggle (Churn, Spam, MNIST).  
+
+**Checkpoint:**  
+- Completar al menos 2 proyectos con datasets reales.  
+
+**Criterio de finalización:**  
+- Tener proyectos listos para portafolio.
+
+---
+
+## Semana 10 – Proyecto final y revisión
+**Ejercicios:** 91–100  
+**Objetivos:**  
+- Integrar todo el flujo: datos crudos → EDA → ML → despliegue.  
+- Documentar y presentar resultados.  
+
+**Datasets sugeridos:** A elección, según interés personal.  
+
+**Checkpoint:**  
+- Proyecto final funcional en `streamlit` o `fastapi`.  
+
+**Criterio de finalización:**  
+- Proyecto documentado, reproducible y listo para mostrar.
+
+---
+
 ## Bloque 1 – Fundamentos de Python para Datos (1–20)
 
 ### 1. Hola Data Science
